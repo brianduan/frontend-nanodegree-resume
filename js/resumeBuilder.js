@@ -2,7 +2,7 @@
 var bio = {
     "name": "Bro Dee",
     "role": "Web Developer",
-    "welcomeMessage": "This page is dynamically built with JavaScript and JSON data format.",
+    "welcomeMessage": "This page is dynamically generated with JavaScript and JSON data format.",
     "contacts": {
         "mobile": "11111111",
         "email": "bdbdbd@gmail.com",
